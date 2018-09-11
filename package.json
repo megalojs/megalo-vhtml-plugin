@@ -1,0 +1,27 @@
+{
+  "name": "@megalo/vhtml-plugin",
+  "version": "0.0.1",
+  "description": "vhtml plugin for megalo",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaola-fed/megalo-vhtml-plugin.git"
+  },
+  "keywords": [
+    "megalo",
+    "vue",
+    "miniprogram"
+  ],
+  "author": "kaola-fed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaola-fed/megalo-vhtml-plugin/issues"
+  },
+  "homepage": "https://github.com/kaola-fed/megalo-vhtml-plugin#readme",
+  "peerDependencies": {
+    "octoparse": "^0.1.3"
+  }
+}
