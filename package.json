@@ -21,7 +21,7 @@
     "url": "https://github.com/kaola-fed/megalo-vhtml-plugin/issues"
   },
   "homepage": "https://github.com/kaola-fed/megalo-vhtml-plugin#readme",
-  "peerDependencies": {
-    "octoparse": "^0.1.3"
+  "dependencies": {
+    "octoparse": "^0.1.9"
   }
 }
