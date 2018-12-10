@@ -1,9 +1,9 @@
-const octoParse = require('octoParse').default
+var octoParse = require('octoparse').default
 
 module.exports = {
   install(Vue, options) {
     Vue.prototype.$htmlParse = function(str) {
-      const nodes = octoParse.htmlParse(str)
+      var nodes = octoParse.htmlParse(str)
       return nodes
     }
   }
