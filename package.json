@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kaola-fed/megalo-vhtml-plugin#readme",
   "dependencies": {
-    "octoparse": "^0.1.9"
+    "octoparse": "*"
   }
 }
