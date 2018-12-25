@@ -1,4 +1,4 @@
-var octoParse = require('octoparse').default
+var octoParse = require('octoparse')
 
 module.exports = {
   install(Vue, options) {
