@@ -1,6 +1,6 @@
 {
   "name": "@megalo/vhtml-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "vhtml plugin for megalo",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/kaola-fed/megalo-vhtml-plugin/issues"
   },
   "homepage": "https://github.com/kaola-fed/megalo-vhtml-plugin#readme",
-  "dependencies": {
+  "peerDependencies": {
     "octoparse": "*"
   }
 }
